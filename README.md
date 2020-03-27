@@ -1,1 +1,2 @@
-# SlingShot-Maze-Part-1-C28-Project
+# C28_project
+SlingShot Maze Part 1
